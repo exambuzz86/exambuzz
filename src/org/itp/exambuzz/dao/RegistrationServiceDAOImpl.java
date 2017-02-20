@@ -1,6 +1,6 @@
 package org.itp.exambuzz.dao;
 
-import org.itp.exambuzz.model.QuestionBO;
+import org.itp.exambuzz.dto.QuestionBO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Service;

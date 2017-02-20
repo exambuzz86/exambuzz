@@ -1,4 +1,4 @@
-package org.itp.exambuzz.entity;
+package org.itp.exambuzz.model;
 
 import javax.persistence.*;
 import java.io.Serializable;

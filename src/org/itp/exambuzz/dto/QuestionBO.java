@@ -1,4 +1,4 @@
-package org.itp.exambuzz.model;
+package org.itp.exambuzz.dto;
 
 public class QuestionBO {
 
