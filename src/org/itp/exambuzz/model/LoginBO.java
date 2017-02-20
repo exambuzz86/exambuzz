@@ -1,4 +1,4 @@
-package org.itp.exambuzz.bo;
+package org.itp.exambuzz.model;
 
 /**
  * Created by bijeesraj on 2/19/17.
